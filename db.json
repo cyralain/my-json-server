@@ -5,19 +5,5 @@
     crypto: "Bitcoin",
     balance: "link",
     explorer: "bitcoinex"
-  },
-  {
-    userId: 1,
-    id: 2,
-    crypto: "Litecoin",
-    balance: "link",
-    explorer: "litecoinex"
-  },
-  {
-    userId: 1,
-    id: 3,
-    crypto: "ZCash",
-    balance: "link",
-    explorer: "zcashex"
   }
 ]
