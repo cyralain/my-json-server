@@ -1,7 +1,5 @@
 [
   {
-    userId: 1,
-    id: 1,
     crypto: "Bitcoin",
     balance: "link",
     explorer: "bitcoinex"
