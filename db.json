@@ -1,7 +1,5 @@
 {
   "assests": [
-    { "id": 1, "crypto": "Bitcoin", "balance": "1,23548562", "explorer": "https://www.blockchain.com/explorer" },
-    { "id": 2, "crypto": "Litecoin", "balance": "26,12345678", "explorer": "https://www.blockchain.com/explorer" },   
-    { "id": 3, "crypto": "ZCash", "balance": "32,12345678", "explorer": "https://www.blockchain.com/explorer" }
+    { "id": 1, "crypto": "Bitcoin", "balance": "1,23548562", "explorer": "https://www.blockchain.com/explorer" }
   ]
 }
