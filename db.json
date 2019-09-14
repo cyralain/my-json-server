@@ -1,7 +1,7 @@
 [
   {
-    crypto: "Bitcoin",
-    balance: "link",
-    explorer: "bitcoinex"
+    "crypto": "Bitcoin",
+    "balance": "link",
+    "explorer": "bitcoinex"
   }
 ]
